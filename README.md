@@ -35,7 +35,7 @@ This page will confirm the user appoitment and after closing the pop-up screen i
 2. Login:
 ![LOGIN](https://user-images.githubusercontent.com/61966813/176138210-77b60400-f3ae-47e6-bac8-cabc7fc49e24.png)
 3. Appoitment Page, User Details and Confirmation:
-![SEQ 3](https://user-images.githubusercontent.com/61966813/176140169-36696971-2471-49c8-a9fc-b291b7bd74ed.png)
+![SEQ 3](https://user-images.githubusercontent.com/93473395/176732069-d8c904db-a844-425c-a0bb-123353e73a6e.png)
 
 ### Conclusion 
 to summarize, in order to help users have effortless appoitment a mobile application is needed for them to have virtual consultation without the need to go to the hospital or having a walk-in appoitments. This application will also help HKL staff for having a manageable and effective appoitments. 
